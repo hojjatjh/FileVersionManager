@@ -51,7 +51,7 @@ $manager->saveVersion("sample.php", "version1", "Initial version of the file.");
 | key  |string   |  Unique identifier for the file version |
 | comment  |string (optional)	   |  A short description of this version |
 
-⚠️** Important Notes:**
+⚠️**Important Notes:**
 Each version key ($key) must be unique. You cannot store multiple files under the same key.
 If the specified key already exists, an exception will be thrown to prevent overwriting an existing version.
 
