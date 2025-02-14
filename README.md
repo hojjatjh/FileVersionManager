@@ -19,7 +19,7 @@
 
 ## 📥 Installation
 
-#####Clone the repository using:
+Clone the repository using:
 ```
 git clone https://github.com/hojjatjh/FileVersionManager.git
 ```
